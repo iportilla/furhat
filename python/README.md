@@ -27,7 +27,8 @@ python hello_world --host=192.168.0.52 --auth_key==mykey123
 ```
 
 
-New U
+New UI option:
 ```
+pip install -r requirements.txt
 streamlit run ollama_ui.py
 ```
