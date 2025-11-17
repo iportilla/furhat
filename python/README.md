@@ -25,3 +25,9 @@ For all examples. you can provide the host (ip address) of the robot (default `1
 ```
 python hello_world --host=192.168.0.52 --auth_key==mykey123
 ```
+
+
+New U
+```
+streamlit run ollama_ui.py
+```
